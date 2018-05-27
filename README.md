@@ -1,8 +1,5 @@
 # image_decorated_button
 
-A new Flutter project.
+Util package help to build buttons with border radius and image background.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![](./Screenshot.png)
